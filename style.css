@@ -30,8 +30,9 @@ html{
 h1{
   margin-bottom: 20px;
   line-height: 1;
-  font-weight: 500;
+  font-weight: 600;
   color: #8880bd;
+  margin-top: 20px;
 }
 
 .username{
@@ -41,4 +42,31 @@ h1{
 .drawn{
   margin-top: 10px;
   color: #CCC;
+}
+
+.footer{
+  padding: 20px;
+}
+
+.credit{
+  font-size: 12px;
+  margin-top: 10px;
+  color: #BBB;
+  text-indent: 3px;
+}
+
+.credit a{
+  text-decoration: none;
+  color: #BBB;
+  display: inline-block;
+  border-bottom: 1px solid #EEE;
+}
+
+.logo{
+  width: 120px;
+  display: block;
+}
+
+.logo svg{
+  display: block;
 }
