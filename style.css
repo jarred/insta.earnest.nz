@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.images{
+  max-width: 500px;
+}
+
+.image{
+  margin-bottom: 0px;
+}
+
+.image img{
+  display: block;
+  width: 100%;
+}
+
+.intro{
+  padding: 20px;
+  max-width: 280px;
+}
+
+h1{
+  margin-bottom: 20px;
+  line-height: 1;
+  font-weight: 500;
+  color: #8880bd;
+}
+
+.username{
+  color: #81a438;
+}
+
+.drawn{
+  margin-top: 10px;
+  color: #CCC;
+}
